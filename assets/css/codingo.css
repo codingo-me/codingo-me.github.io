@@ -1,0 +1,12 @@
+.site-header .wrapper{
+    padding: 10px 0 10px 0;
+}
+img.logo {
+    width:50px;
+    float: left;
+}
+.company-line .site-title{
+    font-size: 26px;
+    font-weight:500;
+    color: rgb(119, 119, 119);
+}
